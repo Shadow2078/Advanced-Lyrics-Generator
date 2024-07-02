@@ -1,0 +1,7 @@
+openai
+matplotlib
+seaborn
+pandas
+wordcloud
+textblob
+nltk
